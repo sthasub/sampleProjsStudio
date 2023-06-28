@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Management Basics" source="com.snc.service">81ac0b75e8a1211076da10591ad2872b</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 09:04:58</sys_created_on>
+        <sys_id>60085e0097b721107cf39934a253af1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Starfish" source="x_1049429_starfish">32b7120097b721107cf39934a253afe0</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 09:04:58</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
